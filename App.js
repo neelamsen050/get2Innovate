@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import LoginScreen from './src/screens/login';
-import RegisterScrghjgheen from './src/screens/register';
+import RegisterScreen from './src/screens/register';
 import HomeScreen from "./src/screens/home";
 import PaymentScreen from "./src/screens/payment";
 import DrawerScreen from './src/component/Drawer';
